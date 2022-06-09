@@ -7,4 +7,6 @@
     >git config --global [user.name] "Name"
 
     >git config --global user.email 
-4. Создать папку в окне слева                              
+4. Создать папку в окне слева     
+5. Необходимо инициировать. Ввести комманду в терминале **git init**
+                         
